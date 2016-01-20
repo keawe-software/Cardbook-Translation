@@ -1,0 +1,10 @@
+<!ENTITY wdw_urlEditionTitle "Url bearbeiten" >
+
+<!ENTITY saveUrlEditionLabel "Speichern">
+<!ENTITY saveUrlEditionAccesskey "S">
+<!ENTITY cancelUrlEditionLabel "Abbrechen">
+<!ENTITY cancelUrlEditionAccesskey "A">
+
+<!ENTITY urlTypeLabel "Typ">
+<!ENTITY urlTypeTooltip "Typen werden in den Einstellungen von Cardbook festgelegt. Kontakte können nur entsprechend dieser Werte verändert werden. Stellen Sie also sicher, dass Sie die richtigen Werte eingerichtet haben.">
+<!ENTITY urlValueLabel "Wert">

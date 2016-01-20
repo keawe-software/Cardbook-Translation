@@ -1,0 +1,10 @@
+<!ENTITY wdw_imppEditionTitle "Messenger/Nachrichtendienste" >
+
+<!ENTITY saveImppEditionLabel "Speichern">
+<!ENTITY saveImppEditionAccesskey "S">
+<!ENTITY cancelImppEditionLabel "Abbrechen">
+<!ENTITY cancelImppEditionAccesskey "A">
+
+<!ENTITY imppTypeLabel "Typen">
+<!ENTITY imppTypeTooltip "Typen werden in den Einstellungen von Cardbook festgelegt. Kontakte können nur entsprechend dieser Werte verändert werden. Stellen Sie also sicher, dass Sie die richtigen Werte eingerichtet haben.">
+<!ENTITY imppValueLabel "Wert">

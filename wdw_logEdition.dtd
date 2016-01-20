@@ -1,0 +1,8 @@
+<!ENTITY wdw_logEditionTitle "Protokoll bearbeiten" >
+
+<!ENTITY logEditionTreeLineLabel "Zeile">
+<!ENTITY clipboardLogEditionLabel "In Zwischenablage kopieren">
+<!ENTITY cancelLogEditionLabel "Abbrechen">
+
+<!ENTITY telTypeLabel "Typ">
+<!ENTITY telValueLabel "Wert">

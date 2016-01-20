@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title "Neues Adressbuch hinzufügen" >
+<!ENTITY wizard.label "Neues Adressbuch hinzufügen" >
+
+<!ENTITY initialpage.wizard.description "Ort des Adressbuchs." >
+<!ENTITY initialpage.description "Befindet sich ihr Adressbuch auf diesem PC oder im Netzwerk? :" >
+<!ENTITY initialpage.computer.label "auf dem PC" >
+<!ENTITY initialpage.network.label "im Netzwerk" >
+
+<!ENTITY locationComputerPage.wizard.description "Geben Sie den Ord des Adressbuchs ein." >
+<!ENTITY locationComputerPage.description "Wollen Sie ein existierendes Adressbuch öffnen, oder ein neues, leeres erzeugen? :" >
+<!ENTITY locationComputerPage.type.description "Welcher Art ist das Adressbuch?" >
+<!ENTITY locationComputerPage.type.label "Art" >
+<!ENTITY locationComputerPage.open.label "Existierendes Adressbuch öffnen" >
+<!ENTITY locationComputerPage.create.label "Neues Adressbuch anlegen" >
+<!ENTITY locationComputerPage.uri.label "Adressbuchdatei" >
+<!ENTITY locationComputerPage.uri.description "Wählen Sie den Speicherord des Adressbuchs. Wenn es eine neue Adressbuchdatei wird, ist es eine gute Idee, die Datei mit der Endung .vcf zu versehen." >
+<!ENTITY locationComputerPage.uributton.label "Durchsuchen" >
+
+<!ENTITY locationNetworkPage.wizard.description "Typ und Ort des Netzwerk-Adressbuchs." >
+<!ENTITY locationNetworkPage.description "Welcher Art ist das Netzwerkadressbuch? (Vorsicht mit Google, die respektieren keine VCard-Standards)" >
+<!ENTITY locationNetworkPage.type.label "Art" >
+<!ENTITY locationNetworkPage.carddav.label "CardDAV" >
+<!ENTITY locationNetworkPage.google.label "Google" >
+<!ENTITY locationNetworkPage.connection.label "Verbindung" >
+<!ENTITY locationNetworkPage.uri.description "Für CardDAV-Adressbücher geben Sie hier die Server-URL ein. Es ist ratsam eine Teil-URL anzugeben (Beispiel: http(s)://carddav.example.org). Für Google-Adressbücher muss dieses Feld nicht ausgefüllt werden." >
+<!ENTITY locationNetworkPage.uri.label "URL" >
+<!ENTITY locationNetworkPage.credentials.description "Geben Sie die Zugangsdaten zum Adressbuch an. Für Google-Adressbücher sollte der Nutzername gleich Ihrer Goole-Mailadresse sein." >
+<!ENTITY locationNetworkPage.username.label "Benutzername" >
+<!ENTITY locationNetworkPage.password.label "Passwort" >
+<!ENTITY locationNetworkPage.passwordShow.label "Anzeigen" >
+<!ENTITY locationNetworkPage.validatebutton.label "Überprüfen" >
+
+<!ENTITY googleOauthPage.wizard.description "Google-Authenttifizierung" >
+
+<!ENTITY namePage.wizard.description "Name des neuen Adressbuchs." >
+<!ENTITY namePage.name.label "Name" >
+<!ENTITY namePage.name.description "Wählen Sie einen Namen für das neue Adressbuch:" >
+
+<!ENTITY namesPage.wizard.description "Namen der neuen Adressbücher." >
+<!ENTITY namesPage.name.label "Namen" >
+<!ENTITY namesPage.name.description "Es wurden mehrere Adressbücher gefunden. Wählen Sie die zu öffnenden Adressbücher aus und vergeben Sie Namen für diese:" >
+
+<!ENTITY finishPage.wizard.description "Adressbuch konfiguriert" >
+<!ENTITY finishPage.description "Ihr neues Adressbuch wurde erfolgreich eingerichtet." >

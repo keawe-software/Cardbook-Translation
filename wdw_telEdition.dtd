@@ -1,0 +1,10 @@
+<!ENTITY wdw_telEditionTitle "Telefonnummer bearbeiten">
+
+<!ENTITY saveTelEditionLabel "Speichern">
+<!ENTITY saveTelEditionAccesskey "S">
+<!ENTITY cancelTelEditionLabel "Abbrechen">
+<!ENTITY cancelTelEditionAccesskey "A">
+
+<!ENTITY telTypeLabel "Typ">
+<!ENTITY telTypeTooltip "Typen werden in den Einstellungen von Cardbook festgelegt. Kontakte können nur entsprechend dieser Werte verändert werden. Stellen Sie also sicher, dass Sie die richtigen Werte eingerichtet haben.">
+<!ENTITY telValueLabel "Wert">

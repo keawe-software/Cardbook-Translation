@@ -1,0 +1,10 @@
+<!ENTITY wdw_emailEditionTitle "Email bearbeiten">
+
+<!ENTITY saveEmailEditionLabel "Speichern">
+<!ENTITY saveEmailEditionAccesskey "S">
+<!ENTITY cancelEmailEditionLabel "Abbrechen">
+<!ENTITY cancelEmailEditionAccesskey "C">
+
+<!ENTITY emailTypeLabel "Typen">
+<!ENTITY emailTypeTooltip "Typen werden in den Einstellungen von Cardbook festgelegt. Kontakte können nur entsprechend dieser Werte verändert werden. Stellen Sie also sicher, dass Sie die richtigen Werte eingerichtet haben.">
+<!ENTITY emailValueLabel "Wert">

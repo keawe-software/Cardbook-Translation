@@ -1,0 +1,8 @@
+<!ENTITY wdw_noteEditionTitle "Notiz bearbeiten" >
+
+<!ENTITY saveNoteEditionLabel "Speichern">
+<!ENTITY saveNoteEditionAccesskey "S">
+<!ENTITY cancelNoteEditionLabel "Abbrechen">
+<!ENTITY cancelNoteEditionAccesskey "A">
+
+<!ENTITY noteLabel "Notiz">

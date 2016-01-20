@@ -1,0 +1,5 @@
+<!ENTITY cardbookMenuItemLabel "Cardbook">
+<!ENTITY cardbookMenuAccesskey "C">
+
+<!ENTITY cardbookToolbarButtonLabel "Cardbook">
+<!ENTITY cardbookToolbarButtonTooltip "VCard-Adressbuch öffnen">

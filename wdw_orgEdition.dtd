@@ -1,0 +1,10 @@
+<!ENTITY wdw_orgEditionTitle "Organisation bearbeiten" >
+
+<!ENTITY saveOrgEditionLabel "Speichern">
+<!ENTITY saveOrgEditionAccesskey "S">
+<!ENTITY cancelOrgEditionLabel "Abbrechen">
+<!ENTITY cancelOrgEditionAccesskey "A">
+
+<!ENTITY orgLabel "Organisation">
+<!ENTITY titleLabel "Titel">
+<!ENTITY roleLabel "Rolle">

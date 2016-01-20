@@ -1,0 +1,14 @@
+<!ENTITY wdw_nameEditionTitle "Name bearbeiten" >
+
+<!ENTITY saveNameEditionLabel "Speichern">
+<!ENTITY saveNameEditionAccesskey "S">
+<!ENTITY cancelNameEditionLabel "Abbrechen">
+<!ENTITY cancelNameEditionAccesskey "A">
+
+<!ENTITY fnLabel "Angezeigter Name">
+<!ENTITY lastnameLabel "Nachname">
+<!ENTITY firstnameLabel "Vorname">
+<!ENTITY othernameLabel "andere Namen">
+<!ENTITY suffixnameLabel "Namens-Vorsatz">
+<!ENTITY prefixnameLabel "Namens-Anhängsel">
+<!ENTITY nicknameLabel "Rufname">

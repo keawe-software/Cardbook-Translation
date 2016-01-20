@@ -1,0 +1,8 @@
+<!ENTITY wdw_bdayEditionTitle "Geburtstag bearbeiten" >
+
+<!ENTITY saveBdayEditionLabel "Speichern">
+<!ENTITY saveBdayEditionAccesskey "S">
+<!ENTITY cancelBdayEditionLabel "Abbrechen">
+<!ENTITY cancelBdayEditionAccesskey "A">
+
+<!ENTITY bdayLabel "Geburtstag">

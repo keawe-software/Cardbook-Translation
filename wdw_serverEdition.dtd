@@ -1,0 +1,9 @@
+<!ENTITY wdw_serverEditionTitle "Adressbuch bearbeiten" >
+
+<!ENTITY saveServerEditionLabel "Speichern">
+<!ENTITY cancelServerEditionLabel "Abbrechen">
+
+<!ENTITY serverNameLabel "Name">
+<!ENTITY serverTypeLabel "Typ">
+<!ENTITY serverUserLabel "Benutzer">
+<!ENTITY serverUrlLabel "Url">

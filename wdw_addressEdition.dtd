@@ -1,0 +1,16 @@
+<!ENTITY wdw_addressEditionTitle "Adresse bearbeiten">
+
+<!ENTITY saveAddressEditionLabel "Speichern">
+<!ENTITY saveAddressEditionAccesskey "S">
+<!ENTITY cancelAddressEditionLabel "Abbrechen">
+<!ENTITY cancelAddressEditionAccesskey "A">
+
+<!ENTITY addressTypeLabel "Typen">
+<!ENTITY addressTypeTooltip "Typen werden in den Einstellungen von Cardbook festgelegt. Kontakte können nur entsprechend dieser Werte verändert werden. Stellen Sie also sicher, dass Sie die richtigen Werte eingerichtet haben.">
+<!ENTITY addressPostOfficeLabel "Postfach">
+<!ENTITY addressExtendedAddrLabel "erweiterte Adresse">
+<!ENTITY addressStreetLabel "Straße">
+<!ENTITY addressLocalityLabel "Ort">
+<!ENTITY addressRegionLabel "Region">
+<!ENTITY addressPostalCodeLabel "Postleitzahl">
+<!ENTITY addressCountryLabel "Land">

@@ -1,0 +1,92 @@
+<!ENTITY wdw_cardbookConfigurationWindowLabel "Cardbook configuration">
+
+<!ENTITY generalTabLabel "Allgemein">
+<!ENTITY editionTabLabel "Bearbeitung">
+<!ENTITY typesTabLabel "Typen">
+<!ENTITY customFieldsTabLabel "eigene Felder">
+<!ENTITY lookTabLabel "Aussehen">
+<!ENTITY syncTabLabel "Synchronisation">
+<!ENTITY emailTabLabel "Email">
+
+<!ENTITY autocompletionGroupboxLabel "Autovervollständigung von Emailadressen">
+<!ENTITY autocompletionLabel "Autovervollständigung aus Cardbook">
+<!ENTITY autocompletionAccesskey "C">
+<!ENTITY autocompletionTooltip "Ersetze die Standard-Autovervollständigung durch die Cardbook-Autovervollständigung. Emails werden nur aus Cardbook vervollständigt, wenn dies aktiviert ist.">
+
+<!ENTITY requestsGroupboxLabel "Anfragen">
+<!ENTITY requestsTimeoutLabel "Timeout (Sekunden)">
+<!ENTITY requestsTimeoutAccesskey "T">
+
+<!ENTITY logGroupboxLabel "Protokoll">
+<!ENTITY statusInformationLineNumberLabel "Anzahl der Zeilen in der Protokolldatei">
+<!ENTITY statusInformationLineNumberAccesskey "P">
+<!ENTITY debugModeLabel "Mode debug">
+<!ENTITY debugModeAccesskey "M">
+<!ENTITY debugModeTooltip "Aktivieren Sie dies, um ausführlichere Logs zu erzeugen.">
+
+<!ENTITY buttonsGroupboxLabel "Schaltflächen">
+<!ENTITY buttonNameLabel "Name">
+<!ENTITY buttonNameAccesskey "N">
+<!ENTITY buttonOrgLabel "Organisation">
+<!ENTITY buttonOrgAccesskey "O">
+<!ENTITY buttonCategoriesLabel "Kategorie">
+<!ENTITY buttonCategoriesAccesskey "K">
+<!ENTITY buttonAddressLabel "Adresse">
+<!ENTITY buttonAddressAccesskey "R">
+<!ENTITY buttonPhoneLabel "Telefon">
+<!ENTITY buttonPhoneAccesskey "T">
+<!ENTITY buttonEmailLabel "Email">
+<!ENTITY buttonEmailAccesskey "E">
+<!ENTITY buttonImppLabel "Messenger">
+<!ENTITY buttonImppAccesskey "M">
+<!ENTITY buttonUrlLabel "Url">
+<!ENTITY buttonUrlAccesskey "U">
+<!ENTITY buttonNoteLabel "Notizen">
+<!ENTITY buttonNoteAccesskey "N">
+<!ENTITY buttonBirthdayLabel "Geburtstag">
+<!ENTITY buttonBirthdayAccesskey "G">
+<!ENTITY miscEdittingGroupboxLabel "Sonstiges">
+<!ENTITY preferEmailEditionLabel "Kontakt mit Doppelklick bearbeiten, statt Mail zu senden">
+<!ENTITY preferEmailEditionAccesskey "D">
+
+<!ENTITY typesGroupboxLabel "Typen">
+<!ENTITY typesCategoryAddressLabel "Adresse">
+<!ENTITY typesCategoryEmailLabel "Email">
+<!ENTITY typesCategoryImppLabel "Messenger">
+<!ENTITY typesCategoryLabelLabel "Kennzeichnungen">
+<!ENTITY typesCategoryTelLabel "Telefon">
+<!ENTITY typesCategoryUrlLabel "URL">
+<!ENTITY addTypeLabel "hinzufügen">
+<!ENTITY renameTypeLabel "umbenennen">
+<!ENTITY deleteTypeLabel "löschen">
+
+<!ENTITY customTybpanelLabel "Hier können Sie eigene Felder definieren.">
+<!ENTITY customNameGroupboxLabel "Name">
+<!ENTITY customOrgGroupboxLabel "Organisation">
+<!ENTITY customFieldName "Feldname">
+<!ENTITY customFieldLabel "Feldname">
+
+<!ENTITY lookGroupboxLabel "Aussehen">
+<!ENTITY defaultLookLabel "Cardbook (blau)">
+<!ENTITY defaultLookAccesskey "C">
+
+<!ENTITY panesViewGroupboxLabel "Position der Tafeln">
+<!ENTITY panesViewClassical "In einer Spalte/zwei Zelen anzeigen (Klassische Ansicht)">
+<!ENTITY panesViewModern "In drei Spalten anzeigen">
+
+<!ENTITY syncGroupboxLabel "Synchronisation">
+<!ENTITY syncWarn "Synchronisation ist die einzige Möglichkeit, ihre Änderungen an einen entfernten Server zu übertragen.">
+<!ENTITY preferDiskLabel "Lokale Modifikation überschreibt Modifikation auf Server, wenn beiderseits geändert wurde.">
+<!ENTITY preferDiskAccesskey "L">
+<!ENTITY autoSyncGroupboxLabel "Regelmäßige Synchronisation">
+<!ENTITY autoSyncLabel "Regelmäßige Synchronisation aktivieren">
+<!ENTITY autoSyncAccesskey "R">
+<!ENTITY autoSyncIntervalLabel "Synchronisiere alle (Minuten)">
+<!ENTITY autoSyncIntervalAccesskey "S">
+
+<!ENTITY miscEmailGroupboxLabel "Emails senden">
+<!ENTITY preferEmailPrefLabel "Bevorzuge Emailadressen, die als 'pref'/'bevorzugt' markiert sind.">
+<!ENTITY preferEmailPrefAccesskey "B">
+<!ENTITY preferEmailPrefWarn "Für diese Email werden alle Emails benutzt, wenn kein typ 'pref'/'bevorzugt' gesetzt ist.">
+
+<!ENTITY cardbookRestartWarn "Diese Änderung erfordert, dass Cardbook geschlossen und neu geöffnet wird.">
